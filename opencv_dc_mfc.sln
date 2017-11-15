@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "opencv_dc_mfc", "opencv_dc_mfc\opencv_dc_mfc.vcxproj", "{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Debug|x64.ActiveCfg = Debug|x64
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Debug|x64.Build.0 = Debug|x64
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Debug|x86.ActiveCfg = Debug|Win32
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Debug|x86.Build.0 = Debug|Win32
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Release|x64.ActiveCfg = Release|x64
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Release|x64.Build.0 = Release|x64
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Release|x86.ActiveCfg = Release|Win32
+		{AFB80D92-02CE-47B1-BD69-BEB98129E7EF}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D704CDB5-6888-4D63-AA13-43128404C5CE}
+	EndGlobalSection
+EndGlobal
