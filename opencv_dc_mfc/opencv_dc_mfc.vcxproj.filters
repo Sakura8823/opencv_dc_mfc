@@ -53,6 +53,9 @@
     <ClCompile Include="DISPLAY_DIALOG1.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="testBJC.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="opencvdcmfc.rc">
