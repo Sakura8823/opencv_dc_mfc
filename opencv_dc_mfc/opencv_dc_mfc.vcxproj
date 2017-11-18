@@ -199,6 +199,7 @@
     <ClCompile Include="DISPLAY_DIALOG1.cpp" />
     <ClCompile Include="opencv_dc_mfc.cpp" />
     <ClCompile Include="opencv_dc_mfcDlg.cpp" />
+    <ClCompile Include="BJC_EXCEL.cpp" />
     <ClCompile Include="stdafx.cpp">
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">Create</PrecompiledHeader>
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
@@ -206,7 +207,6 @@
       <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Create</PrecompiledHeader>
       <PreprocessorDefinitions Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">_CRT_SECURE_NO_WARNINGS;%(PreprocessorDefinitions)</PreprocessorDefinitions>
     </ClCompile>
-    <ClCompile Include="testBJC.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="opencvdcmfc.rc" />
